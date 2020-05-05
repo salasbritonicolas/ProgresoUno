@@ -1,12 +1,12 @@
-MATERIA;NOTA;SEMESTRE
-Sonido II;7.2;6
-Interactividad II;7.3;6
-Video Composicion II;7.4;6
-Proyectos CGI;7.5;6
-Escultura Digital ;7.6;6
-Met ;7.7;7
-Taller de Produccion ;7.8;7
-Visualizacion 3D;7.9;7
-Efectos Dinamicos ;8.;7
-Rigg;7.1;7
-Animacion 3D;8.2;7
+MATERIA,NOTA,SEMESTRE
+Sonido II,7.2,6
+Interactividad II,7.3,6
+Video Composicion II,7.4,6
+Proyectos CGI,7.5,6
+Escultura Digital ,7.6,6
+Met ,7.7,7
+Taller de Produccion ,7.8,7
+Visualizacion 3D,7.9,7
+Efectos Dinamicos ,8.,7
+Rigg;7.1,7
+Animacion 3D,8.2,7
